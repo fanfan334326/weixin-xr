@@ -1,0 +1,142 @@
+{
+  "projectname": "xr-frame-demo",
+  "setting": {
+    "compileHotReLoad": true,
+    "useIsolateContext": true,
+    "urlCheck": false
+  },
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "libVersion": "2.30.3",
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "ar-classic-portal",
+          "pathName": "pages/scene-classic-portal/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "ar-classic-face",
+          "pathName": "pages/scene-classic-face/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "ar-2dmarker",
+          "pathName": "pages/scene-ar-2dmarker/index",
+          "query": "path=%2Fpages%2Fscene-ar-2dmarker%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "template-message",
+          "pathName": "pages/template/xr-template-message/index",
+          "query": "path=%2Fpages%2Ftemplate%2Fxr-template-message%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "template-loading",
+          "pathName": "pages/template/xr-template-loading/index",
+          "query": "path=%2Fpages%2Ftemplate%2Fxr-template-loading%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "gltf-damageHelmet",
+          "pathName": "pages/gltf/scene-gltf-damageHelmet/index",
+          "query": "path=%2Fpages%2Fgltf%2Fscene-gltf-damageHelmet%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "template-removeBlack",
+          "pathName": "pages/template/xr-template-removeBlack/index",
+          "query": "path=%2Fpages%2Ftemplate%2Fxr-template-removeBlack%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "template-tracker",
+          "pathName": "pages/template/xr-template-tracker/index",
+          "query": "path=%2Fpages%2Ftemplate%2Fxr-template-tracker%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "template-gltfEdit",
+          "pathName": "pages/template/xr-template-gltfEdit/index",
+          "query": "path=%2Fpages%2Ftemplate%2Fxr-template-gltfEdit%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "basic-envData",
+          "pathName": "pages/basic/scene-basic-envData/index",
+          "query": "path=%2Fpages%2Fbasic%2Fscene-basic-envData%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "scene-basic",
+          "pathName": "pages/basic/scene-basic/index",
+          "query": "path=%2Fpages%2Fbasic%2Fscene-basic%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "template-arPreview",
+          "pathName": "pages/template/xr-template-arPreview/index",
+          "query": "path=%2Fpages%2Ftemplate%2Fxr-template-arPreview%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "template-lookat",
+          "pathName": "pages/template/xr-template-lookat/index",
+          "query": "path=%2Fpages%2Ftemplate%2Fxr-template-lookat%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "template-gltfOcclusion",
+          "pathName": "pages/template/xr-template-gltfOcclusion/index",
+          "query": "path=%2Fpages%2Ftemplate%2Fxr-template-gltfOcclusion%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "template-frameEffect",
+          "pathName": "pages/template/xr-template-frameEffect/index",
+          "query": "path=%2Fpages%2Ftemplate%2Fxr-template-frameEffect%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "basic-animation",
+          "pathName": "pages/basic/scene-basic-animation/index",
+          "query": "path=%2Fpages%2Fbasic%2Fscene-basic-animation%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "template-select",
+          "pathName": "pages/template/xr-template-select/index",
+          "query": "path=%2Fpages%2Ftemplate%2Fxr-template-select%2Findex",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "template-gltfAnimation",
+          "pathName": "pages/template/xr-template-gltfAnimation/index",
+          "query": "path=%2Fpages%2Ftemplate%2Fxr-template-gltfAnimation%2Findex",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
